@@ -25,7 +25,8 @@ Learning it all~ one lazy roll at a time!
 </ul>
 
 <h2 align="center">:email: Contact</h2>
-
+<h2 align="center">:warning: Extras</h2>
+<p id="extras_lastUpdated"></p>
 <!---
 Another-Potato is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
