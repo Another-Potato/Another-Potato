@@ -26,7 +26,7 @@ Learning it all~ one lazy roll at a time!
 
 <h2 align="center">:email: Contact</h2>
 <h2 align="center">:cookie: Extras</h2>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Another-Potato&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Another-Potato&show_icons=true&&count_private=true&include_all_commits=true&bg_color=F6F8FA" alt="Another-Potato's GitHub Stats" />
 
 <!---
 Another-Potato is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
