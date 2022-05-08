@@ -3,8 +3,17 @@
 <h2 align="center">:hamster: About Me</h2>
 <ul>
     <li>
-        <b>:video_game: Interests</b>
-        test line
+        <b>:video_game: Interests</b><br />
+        <ul>
+            <li>
+                Progression, Automation,<br>
+                Optimisation & Sustainability
+            </li>
+        </ul>
+
+
+
+
     </li>
 </ul>
 <h2 align="center">:orange_book: Skills</h2>
