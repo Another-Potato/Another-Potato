@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Another-Potato</h1>
-<h2 align="center">About Me :hamster:</h2>
+<h2 align="center">:hamster: About Me</h2>
 
  - Test 
 :v:
