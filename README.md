@@ -25,8 +25,9 @@ Learning it all~ one lazy roll at a time!
 </ul>
 
 <h2 align="center">:email: Contact</h2>
-<h2 align="center">:warning: Extras</h2>
-<p id="extras_lastUpdated"></p>
+<h2 align="center">:cookie: Extras</h2>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Another-Potato&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 <!---
 Another-Potato is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
